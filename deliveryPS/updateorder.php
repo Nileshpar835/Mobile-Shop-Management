@@ -30,9 +30,9 @@ if (strlen($_SESSION['alogin']) == 0) {
         $mail->Host = "smtp.gmail.com";
         $mail->Port = 587;
         $mail->IsHTML(true);
-        $mail->Username = "noreplymobileotp.shop@gmail.com";
-        $mail->Password = "gvvppdyosffcuthg";
-        $mail->SetFrom("noreplymobileotp.shop@gmail.com");
+        $mail->Username = "Your mail";
+        $mail->Password = "Your pass";
+        $mail->SetFrom("Your mail");
         $mail->Subject = $subject;
         $mail->Body = $msg;
         $mail->AddAddress($to);
@@ -121,6 +121,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             </div>
             <div class='footer'>
                 <p>If you have any questions, please contact us at noreplymobileotp.shop@gmail.com</p>
+                                    <p>Nileshpar835</p>
                 <p>Thank you for shopping with Mobile Shop!</p>
             </div>
         </div>
