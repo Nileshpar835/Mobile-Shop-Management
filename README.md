@@ -1,6 +1,5 @@
 # **Mobile Shop Management System**
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Mobile+Shop+Management+System)  
 _A comprehensive web-based solution for managing an online mobile shop efficiently._
 
 ---
@@ -58,3 +57,46 @@ The **Mobile Shop Management System** is a user-friendly web application develop
 ### **Step 1: Clone the Repository**  
 ```bash
 git clone https://github.com/Nileshpar835/mobile-shop-management.git
+```
+
+### **Step 2: Configure the Environment** 
+
+- Move the project files to the `htdocs` folder of XAMPP.
+- Import the provided database file (`database.sql`) into phpMyAdmin:
+  1. Open phpMyAdmin: `http://localhost/phpmyadmin`
+  2. Create a new database, for example, `mobile_shop`.
+  3. Import the `database.sql` file into the created database.
+
+### **Step 3: Start the Server**  
+1. Launch XAMPP and start the **Apache** and **MySQL** modules.
+2. Access the application by visiting:  
+
+
+---
+
+## 🧑‍💻 **Contributors**  
+- **[Nilesh Parmar](https://github.com/Nileshpar835)** - Developer  
+
+---
+
+## 🌟 **Future Enhancements**  
+- Integration of a secure payment gateway.  
+- Advanced search functionality for better product discovery.  
+- Email notifications for order status updates.  
+- Role-based analytics and reporting for admin users.  
+
+---
+
+## 📷 **Image Credits**  
+_(Screenshots and visuals were designed and captured for demonstration purposes.)_
+- **[Nilesh Parmar](https://github.com/Nileshpar835)** - Developer  
+
+---
+
+## 🙌 **Thank You for Checking Out This Project!**  
+Feel free to contribute by forking the repository, making improvements, and submitting pull requests.  
+If you like this project, don't forget to ⭐ star the repository!
+
+---
+
+
