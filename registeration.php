@@ -58,9 +58,9 @@ function smtp_mailer($to, $subject, $msg) {
     $mail->Host = "smtp.gmail.com";
     $mail->Port = 587;
     $mail->IsHTML(true);
-    $mail->Username = "noreplymobileotp.shop@gmail.com";
-    $mail->Password = "gvvppdyosffcuthg";
-    $mail->SetFrom("noreplymobileotp.shop@gmail.com");
+    $mail->Username = "Your mail";
+    $mail->Password = "Your passcode";
+    $mail->SetFrom("Your mail");
     $mail->Subject = $subject;
     $mail->Body = $msg;
     $mail->AddAddress($to);
@@ -151,6 +151,7 @@ function get_otp_message($otp) {
                 </div>
                 <div class='footer'>
                     <p>Thank you for choosing Mobile Shop!</p>
+                    <p>Nileshpar835</p>
                     <p>Contact us at noreplymobileotp.shop@gmail.com for any assistance.</p>
                 </div>
             </div>
