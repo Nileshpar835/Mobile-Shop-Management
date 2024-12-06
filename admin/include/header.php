@@ -6,7 +6,7 @@
             </a>
 
             <a class="brand" href="index.html">
-                Shopping Portal | Admin
+                My Mobile | Admin
             </a>
 
             <div class="nav-collapse collapse navbar-inverse-collapse">
