@@ -33,24 +33,6 @@
 
             	<div class="col-xs-12 col-sm-6 col-md-4">
             		 <!-- ============================================================= CONTACT TIMING============================================================= -->
-<!--<div class="contact-timing">
-	<div class="module-heading">
-		<h4 class="module-title">opening time</h4>
-	</div> /.module-heading 
-
-	<div class="module-body outer-top-xs">
-		<div class="table-responsive">
-			<table class="table">
-				<tbody>
-					<tr><td>Monday-Friday:</td><td class="pull-right">08.00 To 18.00</td></tr>
-					<tr><td>Saturday:</td><td class="pull-right">09.00 To 20.00</td></tr>
-					<tr><td>Sunday:</td><td class="pull-right">10.00 To 20.00</td></tr>
-				</tbody>
-			</table>
-		</div> /.table-responsive 
-	</div> /.module-body 
-</div> /.contact-timing -->
-<!-- ============================================================= CONTACT TIMING : END ============================================================= -->            	</div><!-- /.col -->
 
             	<div class="col-xs-12 col-sm-6 col-md-4">
             		 <!-- ============================================================= INFORMATION============================================================= -->
@@ -86,17 +68,7 @@
                 </div>
             </li>
 
-<!--              <li class="media">
-                <div class="pull-left">
-                     <span class="icon fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      < class="fa fa-envelope fa-stack-1x fa-inverse"></i>i
-                    </span>
-                </div>
-                    <div class="media-body">
-                        <span><a href="https://www.campcodes.com/">www.campcodes.com</a></span>
-                    </div>
-            </li>-->
+
               
             </ul>
     </div><!-- /.module-body -->
