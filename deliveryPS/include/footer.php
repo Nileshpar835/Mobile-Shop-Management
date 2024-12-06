@@ -2,6 +2,6 @@
     <div class="container">
 
 
-        <b class="copyright">&copy; 2024 Shopping Portal by Group47 </b> All rights reserved.
+        <b class="copyright">&copy; 2024 MY Mobiles by Nileshpar835 </b> All rights reserved.
     </div>
 </div>
